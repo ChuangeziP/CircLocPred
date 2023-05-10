@@ -1,0 +1,1 @@
+python methods/FourierClass.py -i input.fasta -o Atomic.csv -l lncRNA -r 7
